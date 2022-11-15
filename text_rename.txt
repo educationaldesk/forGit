@@ -1,2 +1,3 @@
 add in lines in git
 2. line two is being added to check the git checkout feature
+3. third line in the text file.
