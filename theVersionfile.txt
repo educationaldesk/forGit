@@ -2,3 +2,4 @@ line for version v_1.0.1
 create coffee machine display
 1.2. loop through the resources for display
 1.4 check if the resources are more than drink ingredients. (I used commit checksum to create a tag here) 
+1.1. On main page create a user greeting display
