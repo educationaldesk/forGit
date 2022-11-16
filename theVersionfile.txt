@@ -1,1 +1,2 @@
 line for version v_1.0.1
+create coffee machine display
