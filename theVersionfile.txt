@@ -1,2 +1,3 @@
 line for version v_1.0.1
 create coffee machine display
+1.2. loop through the resources for display
