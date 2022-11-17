@@ -1,0 +1,1 @@
+First line in merge branch text file
