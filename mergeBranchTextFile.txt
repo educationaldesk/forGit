@@ -1,3 +1,0 @@
-First line in merge branch text file
-line two in merge file
-adding line three in merge file.
