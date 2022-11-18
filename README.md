@@ -1,4 +1,4 @@
-# forGit - adding some letters
-adding this line in README.md in the mergerBranch.
-adding This line two in the merger branch.
+# forGit
 
+adding this line in README.md from creatingBranchForTesting
+adding line two in the README.md from the recursive_merge_branch
