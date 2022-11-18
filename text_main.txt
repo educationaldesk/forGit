@@ -1,1 +1,2 @@
 1. main text file 
+m_2. line two in the main's text file
