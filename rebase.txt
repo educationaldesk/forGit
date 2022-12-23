@@ -5,3 +5,4 @@ word
 word
 did git rebase before committing anything
 will do rebase after this commit
+for commit on both branches
