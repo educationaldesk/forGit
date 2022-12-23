@@ -1,5 +1,0 @@
-1. main text file 
-m_2. line two in the main's text file
-adding bottom line in text_main.txt file
-line in text file
-line in text file
